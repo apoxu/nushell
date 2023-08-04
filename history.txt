@@ -1,0 +1,1089 @@
+ls
+la
+ls
+ps 
+ps | nohup
+ps | grep nohup
+ps | clash
+ps | grep clash
+la
+ls -a
+rm nohup.out
+curl google.com
+find .emacs.d
+cd .config
+la
+ls -a
+git clone --depth 1 https://github.com/seagle0128/.emacs.d.git ~/.config/emacs
+emacs
+ls
+cd emacs
+ls 
+ls
+echo $XDG_CONFIG_HOME
+EXIT
+exit
+mv ~/.config/emacs ~/.emacs.d
+emacs
+cd .emacs.d
+la
+ls -0a
+ls
+ls -a
+cd emacs
+ls -a
+cd ..
+ls -a
+cd eln-cache/
+ls
+cd 30.0.50-72c00f08/
+ls -a
+cd ..
+ls -a
+mv emacs ~/.config/emacs
+emacs
+cd ..
+cd .config/emacs
+ls -a
+rm -rf ~/.emacs.d
+mv emacs ~/.emacs.d
+cd ..
+mv emacs ~/.emacs.d
+emacs
+ls -a
+rm -rf emacs
+emacs
+cd ..
+ls -a
+rm .emacs.d .centaur.d
+mv .emacs.d .centaur.d
+git clone --depth 1 --single-branch https://github.com/doomemacs/doomemacs ~/.config/emacs
+cd .config/emacs
+cd bin
+ls -a
+./doom install
+curl google.com
+./doom install
+cd ..
+rm -rf emacs
+git clone --depth 1 --single-branch https://github.com/doomemacs/doomemacs ~/.config/emacs
+cd emacs 
+cd bin
+ls
+pwd
+ls -a
+cd .config
+ls -a
+tree
+sudo pacman -
+sudo pacman -S tree
+tree
+./doom install
+emacs
+ls -a
+cd style/
+ls -a
+cd ..
+nvim style.css
+cd style/
+nvim style-light.css
+cd ..
+ls
+nvim modules
+nvim config
+neovide
+neovide config
+sudo pacman -S neovide
+sudo pacman -S vulkan-intel 
+neovide config
+sudo pacman -S neovide
+yay neovide
+nvim
+pon
+cd ..
+exit
+ls -a
+cd sddm.conf.d/
+ls -a
+nvim `10-theme.conf`
+cd /var/lib/sddm
+ls -a
+cd .config
+exit
+cd .config
+ls -a
+cd foot
+ls -a
+nvim foot.ini
+exit
+nvim ~/.config/foot/foot.ini
+exit
+/usr/bin/nu
+zoxide init nushell | save -f ~/.zoxide.nu
+z
+source ~/.zoxide.nu
+z
+zoxide
+z foo
+nu --version
+nvim .zoxide.nu
+rm .zoxide.nu
+sudo pacman -S zoxide
+yay zoxide
+zoxide
+:q
+exit
+curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | bash
+curl google.com
+pon
+exit
+curl google.com
+curl -sS https://raw.githubusercontent.com/ajeetdsouza/zoxide/main/install.sh | bash
+zoxide
+cd .config/nu
+ls .config
+cd .config/nushell
+ls -a
+nvim config.nu
+zoxide
+config env
+config nu
+config --help
+config nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+nvim env.nu
+source env.nu
+config nu
+source env.nu
+zoxide
+config rnv
+config env
+config nu
+source config.nu
+z
+cd ..
+ls -a
+ls -la
+cd hypr
+ls -a
+cd swaylock
+ls
+nvim config
+config nu
+hx
+hxlix
+helix
+config nu
+config enfv
+config env
+source env
+source ~/.config/nushell/env.nu
+config env
+curl google.com
+yay chrome
+yay google-chrome
+ls
+ls -a
+exit
+config env
+config nu
+config env
+tree-sitter-cli
+source ~/.config/nushell/env.nu
+tree-sitter 
+tree-sitter -v
+sudo pacman -S ripgrep
+sudo pacman -S lazygit
+sudo pacman -S gdu
+sudo pacman -S bottom
+python3
+git clone --depth 1 https://github.com/AstroNvim/AstroNvim ~/.config/nvim
+nvim
+neovide
+config env
+config config
+config nu
+config env
+source ~/.config/nushell/env.nu
+nv
+emacs
+git clone https://github.com/username/astronvim_config.git ~/.config/astronvim/lua/user
+rm -rf nvim
+table
+ls
+config
+du
+bits and
+bits
+data
+date
+shells
+git clone https://github.com/username/astronvim_config.git ~/.config/astronvim/lua/user
+rm -rf nvim
+git clone https://github.com/username/astronvim_config.git ~/.config/astronvim/lua/user
+───────────────┼──────────┼──────────┼─────────────────┼───────┤<\n>│  0 │ Thunar        │  11.2 KB │  20.5 KB │                 │       │<\n>│  1 │ astronvim     │      6 B │      0 B │ [table 1 row]   │       │<\n>│  2 │ btop          │  13.1 KB │  28.7 KB │ [table 1 row]   │       │<\n>│  3 │ cava          │   9.9 KB │  20.5 KB │ [table 1 row]   │       │<\n>│  4 │ clash         │   6.0 MB │   6.0 MB │                 │       │<\n>│  5 │ clash-verge   │   6.8 MB │   6.9 MB │ [table 2 rows]  │       │<\n>│  6 │ dconf         │   1.0 KB │   4.1 KB │                 │       │<\n>│  7 │ doom          │  15.3 KB │  20.5 KB │                 │       │<\n>│  8 │ emacs         │ 144.9 MB │ 231.1 MB │ [table 10 rows] │       │<\n>│  9 │ fcitx         │    113 B │   4.1 KB │ [table 1 row]   │       │<\n>│ 10 │ fcitx5        │  87.1 KB │ 110.6 KB │ [table 1 row]   │       │<\n>│ 11 │ foot          │   5.1 KB │   8.2 KB │                 │       │<\n>│ 12 │ go-musicfox   │   6.3 MB │   6.4 MB │ [table 1 row]   │       │<\n>│ 13 │ google-chrome │  72.0 MB │  65.1 MB │ [table 26 rows] │       │<\n>│ 14 │ gtk-3.0       │      0 B │      0 B │                 │       │<\n>│ 15 │ helix         │      0 B │      0 B │                 │       │<\n>│ 16 │ hypr          │ 600.0 KB │ 802.8 KB │ [table 7 rows]  │       │<\n>│ 17 │ hypr-back-up  │   4.8 KB │   8.2 KB │                 │       │<\n>│ 18 │ ibus          │    520 B │  12.3 KB │ [table 1 row]   │       │<\n>│ 19 │ kitty         │      0 B │      0 B │                 │       │<\n>│ 20 │ neofetch      │  18.2 KB │  20.5 KB │                 │       │<\n>│ 21 │ nushell       │  30.8 KB │  36.9 KB │                 │       │<\n>│ 22 │ nvim          │ 164.8 KB │ 323.6 KB │ [table 3 rows]  │       │<\n>│ 23 │ pulse         │  26.0 KB │  41.0 KB │                 │       │<\n>│ 24 │ ristretto     │   4.3 KB │   8.2 KB │                 │       │<\n>│ 25 │ wlogout       │  17.3 KB │  57.3 KB │ [table 1 row]   │       │<\n>│ 26 │ xfce4         │  88.5 KB │ 147.5 KB │ [table 3 rows]  │       │<\n>│ 27 │ yay           │      0 B │      0 B │                 │       │<\n>├────┼───────────────┼──────────┼──────────┼─────────────────┼───────┤<\n>│  # │     path      │ apparent │ physical │   directories 
+cd nvim
+la
+config env
+la
+source env
+source ~/.config/nushell/env.nu
+la
+cd lua/
+la
+cd core
+exit
+cd nvim/lua
+la
+cd ..
+la
+hx 
+config env
+source ~/.config/nushell/env.nu
+nv
+tree | table
+cd lua
+la
+mkdir custom
+cd custom/
+touch chadrc.lua
+touch init.lua
+nv
+hx chadrc.lua
+hx init.lua
+nv
+nvim
+nv
+cd .config/hypr
+cd ~/.config/hypr
+la
+cd configs/
+la
+nvim keybinds.conf
+config config
+config nu
+config env
+source ~/.config/nushell/env.nu
+cd ~/.config/nvim/custom
+cd ~/.config/nvim/lua/custom
+la
+neovide
+cd ..
+la
+cd core
+la
+bash
+nvim .bashrc
+nv .bashrc
+env
+$env.PATH | length
+curl google.com
+cd ~/.config/nushell/
+la
+nv config.nu
+nv env.nu
+source env.nu
+config env
+source env.nu
+config enfv
+config env
+source env.nu
+config env
+source env.nu
+config env
+source env.nu
+config env
+source env.nu
+config env
+source env.nu
+env
+pon
+shell
+env
+config env
+source env.nu
+pon
+curl google.com
+config env
+curl google.com
+pof
+curl google.com
+env
+$env.http_proxy
+hide http_proxy
+$env.http_proxy
+hide $env.http_proxy
+hide http_proxy
+env
+firefoxx
+firefox 
+sudo pacman -Syyu
+overlay list
+config env
+nv env.nu
+source env.nu
+env
+exit
+env
+overlay use proxy
+curl google.com
+env
+overlay list
+config env
+source ~/.config/nushell/env.nu
+help overlay
+overlay list
+overlay hide proxy
+overlay list
+config env
+source ~/.config/nushell/env.nu
+config env
+help Usage: export
+help export
+config env
+source ~/.config/nushell/env.nu
+config env
+source ~/.config/nushell/env.nu
+config env
+nvim ~/.config/nushell/env.nu
+source ~/.config/nushell/env.nu
+help def-env
+nvim ~/.config/nushell/env.nu
+source ~/.config/nushell/env.nu
+$shell
+shell
+$env.shell
+$env.SHELL
+/usr/bin/bash
+chsh -s /usr/bin/bash
+chsh -l
+chsh -s /bin/bash
+sudo chsh -s /bin/bash
+exit
+bash
+exit
+bash
+sudo pacman -S alacritty
+exit
+fc-list
+fc-list | table
+fc-list | list
+fc-list | grep nerd
+la
+cd ..
+la
+cd .config
+exit
+bash
+exit
+sudo pacman -Rsc alacritty
+bash
+config env
+exit
+$nu.config-path
+config env
+hx $nu.config-path/env.nu
+hx config-path/env.nu
+hx ~/.config/nushell/env.nu
+helix ~/.config/nushell/env.nu
+source ~/.config/nushell/env.nu
+config env
+helix ~/.config/nushell/env.nu
+source ~/.config/nushell/env.nu
+help export
+help export def-env
+nvim
+la
+ls -a
+ls -la
+ls -a
+cd .config
+la
+ls -a
+cd nushell/
+curl google.com
+ls
+vim env.nu
+source env.nu
+vim env.nu
+source env.nu
+vim env.nu
+source env.nu
+overlay list
+nvim
+pon
+mkdir ~/.cache/starship
+starship init nu | save -f ~/.cache/starship/init.nu
+config env
+source env.nu
+overlay use pon
+config env
+overlay use proxy
+env
+pon
+env
+exit 
+exit
+overlay use proxy
+la
+env
+pon
+env
+hide pon
+env
+overlay hide proxy
+env
+config env
+source env.nu
+source ~/.config/nushell/env.nu
+overlay use proxy
+env
+overlay list
+overlay hide proxy
+env
+overlay use proxy
+env
+overlay hide proxy
+env
+config env
+source ~/.config/nushell/env.nu
+env
+overlay use proxy
+env
+pof
+env
+pon
+env
+pof
+la
+nv
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh
+la
+curl https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh
+curl google.com
+env
+pon
+env
+curl https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh
+curl https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh > install_lunarvim.sh
+la
+bash <(curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+sudo pacman -S curl-devel
+bash <(curl google.com)
+bash (curl google.com)
+bash (curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+la
+bash -c (curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh)
+bash --help
+bash -c "curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh"
+bash -c "curl -s https://raw.githubusercontent.com/lunarvim/lunarvim/master/utils/installer/install.sh > install_lvim.sh"
+la
+./install_lvim.sh
+chmod +x install_lvim.sh
+./install_lvim.sh
+env
+./install_lvim.sh
+node -v
+npm -v
+sudo pacman -R node npm
+which node
+sudo pacman -S nvm
+echo 'source /usr/share/nvm/init-nvm.sh' >> ~/.config/nushell/env.nu
+config env
+source /usr/share/nvm/init-nvm.sh
+nvim /usr/share/nvm/init-nvm.sh
+cd /usr/share/nvm
+la
+sudo nvim init-nvm.sh
+sudo nvim banner 
+sudo nvim bash_completion
+source /usr/share/nvm/init-nvm.sh
+sudo nvim init-nvm.sh
+source /usr/share/nvm/init-nvm.sh
+nvm
+nvm --version
+cd ~
+mkdir .npm-global
+config env
+source ~/.config/nushell/env.nu
+npm install -g jshint
+npm --help
+npm uninstall -g jshint
+./install_lvim.sh
+lvim
+rm -rf ~/.config/lvim
+cd ~/.config
+la
+lvim
+la
+rm -rf lvim
+git clone https://github.com/apoxu/lvim lvim
+lvim
+cd ~/.local/bin
+la
+nvim lvim
+neovide -h
+neovide -- -u ~/.local/share/lunarvim/lvim/init.lua
+nvim
+cd ~/.config/nvim
+cd lua
+cd custom/
+nvim .
+config env
+nv
+nvim
+nvim .
+lvim .
+nvim
+cd ..
+cd core
+la
+nvim init.lua
+sudo systenctl -h
+sudo systemctl -h
+cd ..
+cd custom/
+la
+nvim init.lua
+sudo pacman -S luarocks
+exit
+nvim
+curl google.com
+env
+pon
+curl google.com
+env
+source ~/.config/nushell/env.nu
+env
+pon
+env
+source ~/.config/nushell/env.nu
+config env
+env
+overlay use proxy
+la
+env
+overlay list
+init-proxy
+env
+pof
+env
+init-proxy
+pon
+env
+pof
+pon
+pof
+env
+pon
+env
+nvim
+curl google.com
+sudo pacman -S stylua
+exit
+stylua
+stylua -h
+la
+stylua plugins.lua
+exit
+:q
+exit
+cd .config/nvim/lua/custom
+la
+cd ..
+cd core
+la
+nvim mappings
+npm install -g lua-language-server
+curl google.com
+kkkkk
+exit
+npm install -g lua-language-server
+exit
+nvim .
+git config --global user.name "apoxu"
+git config --global user.email "zihangxu123@gmail.com"
+nvim .
+pwd
+exit
+pwd
+exit
+cd .config/nvim/lua/custom
+la
+nvim chard
+nvim chardrc.lua
+la
+nvim chadrc.lua
+nvim
+nvim .
+nvim
+hx
+hx init.lua
+nvim
+lvim mappings.lua
+nvim
+curl google.com
+env
+pon
+env
+init-proxy
+pon
+env
+config env
+source ~/.config/nushell/env.nu
+config env
+source ~/.config/nushell/env.nu
+env
+pof
+env
+pon
+env
+nvim
+cd ..
+cd core
+la
+cd ..
+la
+cd plugins/
+la
+env
+nvim
+lvim
+nvim init.lua
+cd ~/.config/nvim
+exit
+cd ~/.config/nushell
+la
+nvim config.nu
+which config
+config
+config env
+where where
+where nu
+which which
+which where
+which init-proxy
+env
+pon
+la
+env
+init-proxy
+env
+config env
+source env.nu
+extern help
+config env
+env
+pof
+env
+source env.nu
+help export-env
+export-env {$env.SPAM = 'EGGS'}; $env.SPAM
+ENV
+env
+env | grep SPAM
+config env
+source env.nu
+config env
+source env.nu
+config env
+source env.nu
+env
+overlay list
+pon
+overlay list
+env
+pof
+env
+pon
+env
+pof
+env
+pon
+env
+config env
+vim
+vim -v
+vim --version
+nvim
+config env
+env
+curl google.com
+nvim
+cd ..
+cd nvim/lua/custom/
+la
+nvim init.lua
+nvim
+nvim
+cd ~/.config/emacs/bin
+./doom sync
+musicfox
+exit
+cd .config
+mv nvim nvchad
+nvim
+rm -rf nvim
+git clone https://github.com/LazyVim/starter ~/.config/nvim
+nv
+env
+pon
+env
+nv
+lvim ~/.cofnig/nvcha
+lvim ~/.cofnig/nvchad
+./doom upgrade
+exit
+lvim ~/.config/nvchad
+nvim
+exit
+neovide
+exit
+nvim
+cd .config
+la
+cd nvchad/
+la
+cd lua/custom/
+la
+nvim plugins.lua
+nvim
+env
+pon
+env
+nvim
+nvim --benchmark
+nvim
+nv
+cd projects/
+la
+cargo init tt
+nvim .
+nvim tt
+nvim 
+la
+neovide
+env
+pon
+env
+curl google.com
+sudo pacman -S typespeed
+yay typespeed
+typespeed
+exit
+eix
+curl google.com
+nvim
+exit
+la
+cd .config
+la
+which neovide
+which neovide.desktop
+fd neovide.desktop
+find neovide.desktop
+cd hypr
+la
+cd wofi
+la
+cd launchPad/
+la
+nvim config
+la
+cd ..
+la
+nvim config
+drun
+cd ..
+la
+cd scripts/
+la
+exit
+pon
+env
+curl google.com
+sudo pacman -Syyu
+yay -Syyu
+exit
+cd projects/
+la
+rm -rf tt
+la
+cargo init doom
+la
+cd doom
+la
+curl google.com
+eixt
+exit
+nvim
+exit
+nvim 
+:q
+exit
+nvim .
+nvim
+neovide
+exit
+cd ~/.config
+cd nvim
+la
+cd lua
+la
+cd plugins/
+la
+lvim plugins.lua
+nvim
+pon
+env
+nvim
+pon
+la
+exit
+lvim
+cd projects/
+cd doom/
+lvim Cargo.toml
+nvim Cargo.toml
+cargo run\
+cargo run
+cargo run -- -h
+exit
+curl google.com
+env
+pon
+env
+curl google.com
+pof
+curl google.com
+pon
+env
+curl google.com
+exit
+pon
+env
+nvim
+neovide
+nv
+tidy
+yay tidy
+exit
+nvim
+luajit
+env
+exit
+nvim
+nv
+nvim
+cd .config/nvim
+la
+cd lua
+la
+mkdir tes
+cd tes
+la
+touch packages.lua
+nvim packages.lua
+cd ..
+la
+nvim config/lazy.lua
+nvim
+nv
+exit
+curl google.com
+exit
+lvim
+exit
+env
+which env
+pon
+curl google.com
+env
+nvim
+nv
+env
+pon
+env
+yay -S jabba
+jabba ls
+jabba ls-remote
+jabba ls-remote | grep graal
+jabba install graalvm@22.3.2
+jabba
+jabba -v
+jabba current
+jabba la
+jabba ls
+jabba alias default graalvm@22.3.2
+jabba current
+jabba use graalvm@22.3.2
+jabba current
+javac --version
+exit
+javac --version
+java
+jaba --current
+jabba current
+sudo pacman -Rsc jabba
+la
+rm -rf .jabba
+yay sdkman
+curl -s "https://get.sdkman.io" | bash 
+env
+pon
+env
+curl -s "https://get.sdkman.io" | bash 
+sdk
+rm -rf .sdkman
+curl -s "https://get.sdkman.io" | bash 
+sdk help
+nvim .sdkman/bin/sdkman-init.sh
+yay graalm
+yay graal
+yay graal jdk20
+cd projects/
+la
+mkdir tes
+cd tes/
+touch hello.java
+nvim hello.java
+javac --version
+javac hello.java
+la
+nvim hello.java
+javac hello.java
+nvim hello.java
+javac hello.java
+NVIM hello.java
+nvim hello.java
+javac hello.java
+mv hello.java HelloWorld.java
+javac HelloWorld.java
+la
+native-image HelloWorld.class
+exit
+yay leiningen
+lein 
+lein new tt
+la | grep tt
+cd tt
+la
+lein run
+nvim .
+cd ..
+rm -rf tt
+cd projects/
+la
+nv 
+env
+pon
+nv
+yay mysql
+yay myql
+yay redis
+git clone https://github.com/deatil/nako-blog.git
+cd nako-blog/
+la
+/assert/config/conf.ini
+./assert/config/conf.ini
+chmod +x assert/config/conf.ini
+./assert/config/conf.ini
+cargo run
+pof
+cargo run
+cd nako-blog/
+cargo run
+pon
+la
+env
+cargo run
+pof
+cargo run
+nvim ~/.cargo/config
+cargo run
+cargo build
+bash 
+cd ..
+la
+env
+pon
+env
+curl google.com
+cd ..
+rm -rf nako-blog/
+git clone https://github.com/deatil/nako-blog.git
+cd nako-blog/
+cargo build
+la
+cd .config
+la
+nvim mimeapps.list
+la
+cargo 
+cargo init tes
+cd tes/
+la
+cargo run
+cd ~/.cargo
+la
+cd ..
+la .cargo/bin
+la
+la .cargo/bin
+cd .cargo
+la
+rm .crates.toml .crates2.json
+rm -rf registry/
+cd ~/projects/
+la
+env
+cd nako-blog/
+cargo build
+cd ~/.config
+la
+cd ~/.config/init
+cd ~/.config/nvim
+la
+git init
+git add .
+git commit -m 'init'
+git remote add origin git@github.com:apoxu/lazyvim.git
+git push -u origin master
+nvim .git/config
+git push -u origin master
+nvim .git/config
+git config --global user.name "apoxu"
+git config --global user.email "zihangxu123@gmail.com"
+git push -u origin master
+ssh -T git@github.com
+ssh-add -l -E sha256
+cd ~/.ssh
+la
+ssh-keygen
+la
+nvim id_rsa.pub
+cd ~/.config/nvim
+la
+git push -u origin master
+git push origin master
+la
+rm -rf .git
+git init
+git add .
+git commit -m 'init'
+git remote add origin https://github.com/apoxu/lazyvim.git
+git push origin master
+ssh-add
+eval $(ssh-agent)
